@@ -1,0 +1,1065 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header">
+		<fileDesc>
+			<titleStmt>
+				<title>Choyce receits collected out of the book of receits, of the Lady Vere Wilkinson begun to be written by the Right Honble the Lady Anne Carr, Jan. 28 1673/4. [manuscript]</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile sameAs="https://digitalcollections.folger.edu/node/54635/manifest" xml:id="facs-1">
+		<surface xml:id="f000" ulx="0" uly="0" lrx="5407" lry="6100" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/212950">
+			<label>front outside cover</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150699.tif"/>
+		</surface>
+		<surface xml:id="f001" ulx="0" uly="0" lrx="5208" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/212954">
+			<label>front inside cover</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150700.tif"/>
+		</surface>
+		<surface xml:id="f002" ulx="0" uly="0" lrx="5370" lry="6150" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/212958">
+			<label>leaf 1 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150701.tif"/>
+		</surface>
+		<surface xml:id="f003" ulx="0" uly="0" lrx="5189" lry="6350" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/212962">
+			<label>leaf 1 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150702.tif"/>
+		</surface>
+		<surface xml:id="f004" ulx="0" uly="0" lrx="5394" lry="6150" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/212966">
+			<label>leaf 2 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150703.tif"/>
+		</surface>
+		<surface xml:id="f005" ulx="0" uly="0" lrx="5256" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/212970">
+			<label>leaf 2 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150704.tif"/>
+		</surface>
+		<surface xml:id="f006" ulx="0" uly="0" lrx="5319" lry="6150" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/212974">
+			<label>leaf 3 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150705.tif"/>
+		</surface>
+		<surface xml:id="f007" ulx="0" uly="0" lrx="5203" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/212978">
+			<label>leaf 3 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150706.tif"/>
+		</surface>
+		<surface xml:id="f008" ulx="0" uly="0" lrx="5297" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/212982">
+			<label>leaf 4 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150707.tif"/>
+		</surface>
+		<surface xml:id="f009" ulx="0" uly="0" lrx="5264" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/212986">
+			<label>leaf 4 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150708.tif"/>
+		</surface>
+		<surface xml:id="f010" ulx="0" uly="0" lrx="5347" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/212990">
+			<label>leaf 5 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150709.tif"/>
+		</surface>
+		<surface xml:id="f011" ulx="0" uly="0" lrx="5234" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/212994">
+			<label>leaf 5 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150710.tif"/>
+		</surface>
+		<surface xml:id="f012" ulx="0" uly="0" lrx="5346" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/212998">
+			<label>leaf 6 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150711.tif"/>
+		</surface>
+		<surface xml:id="f013" ulx="0" uly="0" lrx="5227" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213002">
+			<label>leaf 6 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150712.tif"/>
+		</surface>
+		<surface xml:id="f014" ulx="0" uly="0" lrx="5349" lry="6150" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213006">
+			<label>leaf 7 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150713.tif"/>
+		</surface>
+		<surface xml:id="f015" ulx="0" uly="0" lrx="5234" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213010">
+			<label>leaf 7 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150714.tif"/>
+		</surface>
+		<surface xml:id="f016" ulx="0" uly="0" lrx="5311" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213014">
+			<label>leaf 8 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150715.tif"/>
+		</surface>
+		<surface xml:id="f017" ulx="0" uly="0" lrx="5234" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213018">
+			<label>leaf 8 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150716.tif"/>
+		</surface>
+		<surface xml:id="f018" ulx="0" uly="0" lrx="5322" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213022">
+			<label>leaf 9 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150717.tif"/>
+		</surface>
+		<surface xml:id="f019" ulx="0" uly="0" lrx="5266" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213026">
+			<label>leaf 9 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150718.tif"/>
+		</surface>
+		<surface xml:id="f020" ulx="0" uly="0" lrx="5287" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213030">
+			<label>leaf 10 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150719.tif"/>
+		</surface>
+		<surface xml:id="f021" ulx="0" uly="0" lrx="5246" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213034">
+			<label>leaf 10 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150720.tif"/>
+		</surface>
+		<surface xml:id="f022" ulx="0" uly="0" lrx="5285" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213038">
+			<label>leaf 11 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150721.tif"/>
+		</surface>
+		<surface xml:id="f023" ulx="0" uly="0" lrx="5232" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213042">
+			<label>leaf 11 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150722.tif"/>
+		</surface>
+		<surface xml:id="f024" ulx="0" uly="0" lrx="5347" lry="6150" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213046">
+			<label>leaf 12 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150723.tif"/>
+		</surface>
+		<surface xml:id="f025" ulx="0" uly="0" lrx="5241" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213050">
+			<label>leaf 12 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150724.tif"/>
+		</surface>
+		<surface xml:id="f026" ulx="0" uly="0" lrx="5279" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213054">
+			<label>leaf 13 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150725.tif"/>
+		</surface>
+		<surface xml:id="f027" ulx="0" uly="0" lrx="5232" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213058">
+			<label>leaf 13 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150726.tif"/>
+		</surface>
+		<surface xml:id="f028" ulx="0" uly="0" lrx="5295" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213062">
+			<label>leaf 14 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150727.tif"/>
+		</surface>
+		<surface xml:id="f029" ulx="0" uly="0" lrx="5217" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213066">
+			<label>leaf 14 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150728.tif"/>
+		</surface>
+		<surface xml:id="f030" ulx="0" uly="0" lrx="5273" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213070">
+			<label>leaf 15 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150729.tif"/>
+		</surface>
+		<surface xml:id="f031" ulx="0" uly="0" lrx="5257" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213074">
+			<label>leaf 15 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150730.tif"/>
+		</surface>
+		<surface xml:id="f032" ulx="0" uly="0" lrx="5289" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213078">
+			<label>leaf 16 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150731.tif"/>
+		</surface>
+		<surface xml:id="f033" ulx="0" uly="0" lrx="5274" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213082">
+			<label>leaf 16 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150732.tif"/>
+		</surface>
+		<surface xml:id="f034" ulx="0" uly="0" lrx="5256" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213086">
+			<label>leaf 17 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150733.tif"/>
+		</surface>
+		<surface xml:id="f035" ulx="0" uly="0" lrx="5274" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213090">
+			<label>leaf 17 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150734.tif"/>
+		</surface>
+		<surface xml:id="f036" ulx="0" uly="0" lrx="5276" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213094">
+			<label>leaf 18 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150735.tif"/>
+		</surface>
+		<surface xml:id="f037" ulx="0" uly="0" lrx="5299" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213098">
+			<label>leaf 18 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150736.tif"/>
+		</surface>
+		<surface xml:id="f038" ulx="0" uly="0" lrx="5283" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213102">
+			<label>leaf 19 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150737.tif"/>
+		</surface>
+		<surface xml:id="f039" ulx="0" uly="0" lrx="5286" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213106">
+			<label>leaf 19 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150738.tif"/>
+		</surface>
+		<surface xml:id="f040" ulx="0" uly="0" lrx="5298" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213110">
+			<label>leaf 20 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150739.tif"/>
+		</surface>
+		<surface xml:id="f041" ulx="0" uly="0" lrx="5269" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213114">
+			<label>leaf 20 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150740.tif"/>
+		</surface>
+		<surface xml:id="f042" ulx="0" uly="0" lrx="5266" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213118">
+			<label>leaf 21 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150741.tif"/>
+		</surface>
+		<surface xml:id="f043" ulx="0" uly="0" lrx="5289" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213122">
+			<label>leaf 21 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150742.tif"/>
+		</surface>
+		<surface xml:id="f044" ulx="0" uly="0" lrx="5331" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213126">
+			<label>leaf 22 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150743.tif"/>
+		</surface>
+		<surface xml:id="f045" ulx="0" uly="0" lrx="5293" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213130">
+			<label>leaf 22 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150744.tif"/>
+		</surface>
+		<surface xml:id="f046" ulx="0" uly="0" lrx="5297" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213134">
+			<label>leaf 23 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150745.tif"/>
+		</surface>
+		<surface xml:id="f047" ulx="0" uly="0" lrx="5289" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213138">
+			<label>leaf 23 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150746.tif"/>
+		</surface>
+		<surface xml:id="f048" ulx="0" uly="0" lrx="5294" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213142">
+			<label>leaf 24 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150747.tif"/>
+		</surface>
+		<surface xml:id="f049" ulx="0" uly="0" lrx="5275" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213146">
+			<label>leaf 24 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150748.tif"/>
+		</surface>
+		<surface xml:id="f050" ulx="0" uly="0" lrx="5342" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213150">
+			<label>leaf 25 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150749.tif"/>
+		</surface>
+		<surface xml:id="f051" ulx="0" uly="0" lrx="5308" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213154">
+			<label>leaf 25 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150750.tif"/>
+		</surface>
+		<surface xml:id="f052" ulx="0" uly="0" lrx="5283" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213158">
+			<label>leaf 26 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150751.tif"/>
+		</surface>
+		<surface xml:id="f053" ulx="0" uly="0" lrx="5293" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213162">
+			<label>leaf 26 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150752.tif"/>
+		</surface>
+		<surface xml:id="f054" ulx="0" uly="0" lrx="5291" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213166">
+			<label>leaf 27 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150753.tif"/>
+		</surface>
+		<surface xml:id="f055" ulx="0" uly="0" lrx="5306" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213170">
+			<label>leaf 27 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150754.tif"/>
+		</surface>
+		<surface xml:id="f056" ulx="0" uly="0" lrx="5342" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213174">
+			<label>leaf 28 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150755.tif"/>
+		</surface>
+		<surface xml:id="f057" ulx="0" uly="0" lrx="5295" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213178">
+			<label>leaf 28 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150756.tif"/>
+		</surface>
+		<surface xml:id="f058" ulx="0" uly="0" lrx="5362" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213182">
+			<label>leaf 29 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150757.tif"/>
+		</surface>
+		<surface xml:id="f059" ulx="0" uly="0" lrx="5329" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213186">
+			<label>leaf 29 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150758.tif"/>
+		</surface>
+		<surface xml:id="f060" ulx="0" uly="0" lrx="5299" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213190">
+			<label>leaf 30 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150759.tif"/>
+		</surface>
+		<surface xml:id="f061" ulx="0" uly="0" lrx="5319" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213194">
+			<label>leaf 30 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150760.tif"/>
+		</surface>
+		<surface xml:id="f062" ulx="0" uly="0" lrx="5344" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213198">
+			<label>leaf 31 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150761.tif"/>
+		</surface>
+		<surface xml:id="f063" ulx="0" uly="0" lrx="5328" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213202">
+			<label>leaf 31 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150762.tif"/>
+		</surface>
+		<surface xml:id="f064" ulx="0" uly="0" lrx="5340" lry="6150" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213206">
+			<label>leaf 32 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150763.tif"/>
+		</surface>
+		<surface xml:id="f065" ulx="0" uly="0" lrx="5329" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213210">
+			<label>leaf 32 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150764.tif"/>
+		</surface>
+		<surface xml:id="f066" ulx="0" uly="0" lrx="5350" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213214">
+			<label>leaf 33 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150765.tif"/>
+		</surface>
+		<surface xml:id="f067" ulx="0" uly="0" lrx="5359" lry="6150" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213218">
+			<label>leaf 33 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150766.tif"/>
+		</surface>
+		<surface xml:id="f068" ulx="0" uly="0" lrx="5335" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213222">
+			<label>leaf 34 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150767.tif"/>
+		</surface>
+		<surface xml:id="f069" ulx="0" uly="0" lrx="5326" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213226">
+			<label>leaf 34 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150768.tif"/>
+		</surface>
+		<surface xml:id="f070" ulx="0" uly="0" lrx="5388" lry="6100" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213230">
+			<label>leaf 35 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150769.tif"/>
+		</surface>
+		<surface xml:id="f071" ulx="0" uly="0" lrx="5330" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213234">
+			<label>leaf 35 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150770.tif"/>
+		</surface>
+		<surface xml:id="f072" ulx="0" uly="0" lrx="5391" lry="6150" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213238">
+			<label>leaf 36 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150771.tif"/>
+		</surface>
+		<surface xml:id="f073" ulx="0" uly="0" lrx="5323" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213242">
+			<label>leaf 36 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150772.tif"/>
+		</surface>
+		<surface xml:id="f074" ulx="0" uly="0" lrx="5343" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213246">
+			<label>leaf 37 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150773.tif"/>
+		</surface>
+		<surface xml:id="f075" ulx="0" uly="0" lrx="5351" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213250">
+			<label>leaf 37 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150774.tif"/>
+		</surface>
+		<surface xml:id="f076" ulx="0" uly="0" lrx="5335" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213254">
+			<label>leaf 38 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150775.tif"/>
+		</surface>
+		<surface xml:id="f077" ulx="0" uly="0" lrx="5350" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213258">
+			<label>leaf 38 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150776.tif"/>
+		</surface>
+		<surface xml:id="f078" ulx="0" uly="0" lrx="5350" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213262">
+			<label>leaf 39 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150777.tif"/>
+		</surface>
+		<surface xml:id="f079" ulx="0" uly="0" lrx="5337" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213266">
+			<label>leaf 39 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150778.tif"/>
+		</surface>
+		<surface xml:id="f080" ulx="0" uly="0" lrx="5329" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213270">
+			<label>leaf 40 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150779.tif"/>
+		</surface>
+		<surface xml:id="f081" ulx="0" uly="0" lrx="5333" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213274">
+			<label>leaf 40 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150780.tif"/>
+		</surface>
+		<surface xml:id="f082" ulx="0" uly="0" lrx="5333" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213278">
+			<label>leaf 41 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150781.tif"/>
+		</surface>
+		<surface xml:id="f083" ulx="0" uly="0" lrx="5337" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213282">
+			<label>leaf 41 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150782.tif"/>
+		</surface>
+		<surface xml:id="f084" ulx="0" uly="0" lrx="5383" lry="6150" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213286">
+			<label>leaf 42 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150783.tif"/>
+		</surface>
+		<surface xml:id="f085" ulx="0" uly="0" lrx="5361" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213290">
+			<label>leaf 42 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150784.tif"/>
+		</surface>
+		<surface xml:id="f086" ulx="0" uly="0" lrx="5338" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213294">
+			<label>leaf 43 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150785.tif"/>
+		</surface>
+		<surface xml:id="f087" ulx="0" uly="0" lrx="5382" lry="6150" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213298">
+			<label>leaf 43 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150786.tif"/>
+		</surface>
+		<surface xml:id="f088" ulx="0" uly="0" lrx="5362" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213302">
+			<label>leaf 44 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150787.tif"/>
+		</surface>
+		<surface xml:id="f089" ulx="0" uly="0" lrx="5335" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213306">
+			<label>leaf 44 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150788.tif"/>
+		</surface>
+		<surface xml:id="f090" ulx="0" uly="0" lrx="5257" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213310">
+			<label>leaf 45 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150789.tif"/>
+		</surface>
+		<surface xml:id="f091" ulx="0" uly="0" lrx="5369" lry="6150" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213314">
+			<label>leaf 45 verso</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150790.tif"/>
+		</surface>
+		<surface xml:id="f092" ulx="0" uly="0" lrx="5353" lry="6150" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213318">
+			<label>[page i]</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150791.tif"/>
+		</surface>
+		<surface xml:id="f093" ulx="0" uly="0" lrx="5246" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213322">
+			<label>[page ii]</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150792.tif"/>
+		</surface>
+		<surface xml:id="f094" ulx="0" uly="0" lrx="5303" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213326">
+			<label>[page iii]</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150793.tif"/>
+		</surface>
+		<surface xml:id="f095" ulx="0" uly="0" lrx="5261" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213330">
+			<label>[page iv]</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150794.tif"/>
+		</surface>
+		<surface xml:id="f096" ulx="0" uly="0" lrx="5284" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213334">
+			<label>[page v]</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150795.tif"/>
+		</surface>
+		<surface xml:id="f097" ulx="0" uly="0" lrx="5267" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213338">
+			<label>[page vi]</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150796.tif"/>
+		</surface>
+		<surface xml:id="f098" ulx="0" uly="0" lrx="5237" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213342">
+			<label>[page vii]</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150797.tif"/>
+		</surface>
+		<surface xml:id="f099" ulx="0" uly="0" lrx="5248" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213346">
+			<label>[page viii]</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150798.tif"/>
+		</surface>
+		<surface xml:id="f100" ulx="0" uly="0" lrx="5272" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213350">
+			<label>page 1</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150799.tif"/>
+		</surface>
+		<surface xml:id="f101" ulx="0" uly="0" lrx="5229" lry="6325" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213354">
+			<label>page 2</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150800.tif"/>
+		</surface>
+		<surface xml:id="f102" ulx="0" uly="0" lrx="5279" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213358">
+			<label>page 3</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150801.tif"/>
+		</surface>
+		<surface xml:id="f103" ulx="0" uly="0" lrx="5266" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213362">
+			<label>page 4</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150802.tif"/>
+		</surface>
+		<surface xml:id="f104" ulx="0" uly="0" lrx="5279" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213366">
+			<label>page 5</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150803.tif"/>
+		</surface>
+		<surface xml:id="f105" ulx="0" uly="0" lrx="5251" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213370">
+			<label>page 6</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150804.tif"/>
+		</surface>
+		<surface xml:id="f106" ulx="0" uly="0" lrx="5322" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213374">
+			<label>page 7</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150805.tif"/>
+		</surface>
+		<surface xml:id="f107" ulx="0" uly="0" lrx="5264" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213378">
+			<label>page 8</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150806.tif"/>
+		</surface>
+		<surface xml:id="f108" ulx="0" uly="0" lrx="5298" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213382">
+			<label>page 9</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150807.tif"/>
+		</surface>
+		<surface xml:id="f109" ulx="0" uly="0" lrx="5251" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213386">
+			<label>page 10</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150808.tif"/>
+		</surface>
+		<surface xml:id="f110" ulx="0" uly="0" lrx="5322" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213390">
+			<label>page 11</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150809.tif"/>
+		</surface>
+		<surface xml:id="f111" ulx="0" uly="0" lrx="5249" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213394">
+			<label>page 12</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150810.tif"/>
+		</surface>
+		<surface xml:id="f112" ulx="0" uly="0" lrx="5332" lry="6189" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213398">
+			<label>page 13</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150811.tif"/>
+		</surface>
+		<surface xml:id="f113" ulx="0" uly="0" lrx="5253" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213402">
+			<label>page 14</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150812.tif"/>
+		</surface>
+		<surface xml:id="f114" ulx="0" uly="0" lrx="5374" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213406">
+			<label>page 15</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150813.tif"/>
+		</surface>
+		<surface xml:id="f115" ulx="0" uly="0" lrx="5242" lry="6325" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213410">
+			<label>page 16</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150814.tif"/>
+		</surface>
+		<surface xml:id="f116" ulx="0" uly="0" lrx="5311" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213414">
+			<label>page 17</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150815.tif"/>
+		</surface>
+		<surface xml:id="f117" ulx="0" uly="0" lrx="5253" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213418">
+			<label>page 18</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150816.tif"/>
+		</surface>
+		<surface xml:id="f118" ulx="0" uly="0" lrx="5301" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213422">
+			<label>page 19</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150817.tif"/>
+		</surface>
+		<surface xml:id="f119" ulx="0" uly="0" lrx="5256" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213426">
+			<label>page 20</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150818.tif"/>
+		</surface>
+		<surface xml:id="f120" ulx="0" uly="0" lrx="5322" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213430">
+			<label>page 21</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150819.tif"/>
+		</surface>
+		<surface xml:id="f121" ulx="0" uly="0" lrx="5251" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213434">
+			<label>page 22</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150820.tif"/>
+		</surface>
+		<surface xml:id="f122" ulx="0" uly="0" lrx="5342" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213438">
+			<label>page 23</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150821.tif"/>
+		</surface>
+		<surface xml:id="f123" ulx="0" uly="0" lrx="5278" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213442">
+			<label>page 24</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150822.tif"/>
+		</surface>
+		<surface xml:id="f124" ulx="0" uly="0" lrx="5330" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213446">
+			<label>page 25</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150823.tif"/>
+		</surface>
+		<surface xml:id="f125" ulx="0" uly="0" lrx="5248" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213450">
+			<label>page 26</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150824.tif"/>
+		</surface>
+		<surface xml:id="f126" ulx="0" uly="0" lrx="5221" lry="6350" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213454">
+			<label>page 27</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150825.tif"/>
+		</surface>
+		<surface xml:id="f127" ulx="0" uly="0" lrx="5295" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213458">
+			<label>page 28</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150826.tif"/>
+		</surface>
+		<surface xml:id="f128" ulx="0" uly="0" lrx="5338" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213462">
+			<label>page 29</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150827.tif"/>
+		</surface>
+		<surface xml:id="f129" ulx="0" uly="0" lrx="5241" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213466">
+			<label>page 30</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150828.tif"/>
+		</surface>
+		<surface xml:id="f130" ulx="0" uly="0" lrx="5254" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213470">
+			<label>page 31</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150829.tif"/>
+		</surface>
+		<surface xml:id="f131" ulx="0" uly="0" lrx="5236" lry="6325" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213474">
+			<label>page 32</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150830.tif"/>
+		</surface>
+		<surface xml:id="f132" ulx="0" uly="0" lrx="5208" lry="6350" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213478">
+			<label>page 33</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150831.tif"/>
+		</surface>
+		<surface xml:id="f133" ulx="0" uly="0" lrx="5304" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213482">
+			<label>page 34</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150832.tif"/>
+		</surface>
+		<surface xml:id="f134" ulx="0" uly="0" lrx="5264" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213486">
+			<label>page 35</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150833.tif"/>
+		</surface>
+		<surface xml:id="f135" ulx="0" uly="0" lrx="5282" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213490">
+			<label>page 36</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150834.tif"/>
+		</surface>
+		<surface xml:id="f136" ulx="0" uly="0" lrx="5271" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213494">
+			<label>page 37</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150835.tif"/>
+		</surface>
+		<surface xml:id="f137" ulx="0" uly="0" lrx="5276" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213498">
+			<label>page 38</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150836.tif"/>
+		</surface>
+		<surface xml:id="f138" ulx="0" uly="0" lrx="5228" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213502">
+			<label>page 39</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150837.tif"/>
+		</surface>
+		<surface xml:id="f139" ulx="0" uly="0" lrx="5299" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213506">
+			<label>page 40</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150838.tif"/>
+		</surface>
+		<surface xml:id="f140" ulx="0" uly="0" lrx="5270" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213510">
+			<label>page 41</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150839.tif"/>
+		</surface>
+		<surface xml:id="f141" ulx="0" uly="0" lrx="5280" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213514">
+			<label>page 42</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150840.tif"/>
+		</surface>
+		<surface xml:id="f142" ulx="0" uly="0" lrx="5281" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213518">
+			<label>page 43</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150841.tif"/>
+		</surface>
+		<surface xml:id="f143" ulx="0" uly="0" lrx="5276" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213522">
+			<label>page 44</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150842.tif"/>
+		</surface>
+		<surface xml:id="f144" ulx="0" uly="0" lrx="5255" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213526">
+			<label>page 45</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150843.tif"/>
+		</surface>
+		<surface xml:id="f145" ulx="0" uly="0" lrx="5297" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213530">
+			<label>page 46</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150844.tif"/>
+		</surface>
+		<surface xml:id="f146" ulx="0" uly="0" lrx="5321" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213534">
+			<label>page 47</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150845.tif"/>
+		</surface>
+		<surface xml:id="f147" ulx="0" uly="0" lrx="5284" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213538">
+			<label>page 48</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150846.tif"/>
+		</surface>
+		<surface xml:id="f148" ulx="0" uly="0" lrx="5275" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213542">
+			<label>page 49</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150847.tif"/>
+		</surface>
+		<surface xml:id="f149" ulx="0" uly="0" lrx="5282" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213546">
+			<label>page 50</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150848.tif"/>
+		</surface>
+		<surface xml:id="f150" ulx="0" uly="0" lrx="5321" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213550">
+			<label>page 51</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150849.tif"/>
+		</surface>
+		<surface xml:id="f151" ulx="0" uly="0" lrx="5281" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213554">
+			<label>page 52</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150850.tif"/>
+		</surface>
+		<surface xml:id="f152" ulx="0" uly="0" lrx="5288" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213558">
+			<label>page 53</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150851.tif"/>
+		</surface>
+		<surface xml:id="f153" ulx="0" uly="0" lrx="5291" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213562">
+			<label>page 54</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150852.tif"/>
+		</surface>
+		<surface xml:id="f154" ulx="0" uly="0" lrx="5283" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213566">
+			<label>page 55</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150853.tif"/>
+		</surface>
+		<surface xml:id="f155" ulx="0" uly="0" lrx="5293" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213570">
+			<label>page 56</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150854.tif"/>
+		</surface>
+		<surface xml:id="f156" ulx="0" uly="0" lrx="5306" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213574">
+			<label>page 57</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150855.tif"/>
+		</surface>
+		<surface xml:id="f157" ulx="0" uly="0" lrx="5302" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213578">
+			<label>page 58</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150856.tif"/>
+		</surface>
+		<surface xml:id="f158" ulx="0" uly="0" lrx="5303" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213582">
+			<label>page 59</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150857.tif"/>
+		</surface>
+		<surface xml:id="f159" ulx="0" uly="0" lrx="5311" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213586">
+			<label>page 60</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150858.tif"/>
+		</surface>
+		<surface xml:id="f160" ulx="0" uly="0" lrx="5248" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213590">
+			<label>page 61</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150859.tif"/>
+		</surface>
+		<surface xml:id="f161" ulx="0" uly="0" lrx="5300" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213594">
+			<label>page 62</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150860.tif"/>
+		</surface>
+		<surface xml:id="f162" ulx="0" uly="0" lrx="5250" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213598">
+			<label>page 63</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150861.tif"/>
+		</surface>
+		<surface xml:id="f163" ulx="0" uly="0" lrx="5293" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213602">
+			<label>page 64</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150862.tif"/>
+		</surface>
+		<surface xml:id="f164" ulx="0" uly="0" lrx="5248" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213606">
+			<label>page 65</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150863.tif"/>
+		</surface>
+		<surface xml:id="f165" ulx="0" uly="0" lrx="5306" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213610">
+			<label>page 66</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150864.tif"/>
+		</surface>
+		<surface xml:id="f166" ulx="0" uly="0" lrx="5290" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213614">
+			<label>page 67</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150865.tif"/>
+		</surface>
+		<surface xml:id="f167" ulx="0" uly="0" lrx="5300" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213618">
+			<label>page 68</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150866.tif"/>
+		</surface>
+		<surface xml:id="f168" ulx="0" uly="0" lrx="5274" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213622">
+			<label>page 69</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150867.tif"/>
+		</surface>
+		<surface xml:id="f169" ulx="0" uly="0" lrx="5300" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213626">
+			<label>page 70</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150868.tif"/>
+		</surface>
+		<surface xml:id="f170" ulx="0" uly="0" lrx="5276" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213630">
+			<label>page 71</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150869.tif"/>
+		</surface>
+		<surface xml:id="f171" ulx="0" uly="0" lrx="5353" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213634">
+			<label>page 72</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150870.tif"/>
+		</surface>
+		<surface xml:id="f172" ulx="0" uly="0" lrx="5287" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213638">
+			<label>page 73</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150871.tif"/>
+		</surface>
+		<surface xml:id="f173" ulx="0" uly="0" lrx="5357" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213642">
+			<label>page 74</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150872.tif"/>
+		</surface>
+		<surface xml:id="f174" ulx="0" uly="0" lrx="5233" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213646">
+			<label>page 75</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150873.tif"/>
+		</surface>
+		<surface xml:id="f175" ulx="0" uly="0" lrx="5357" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213650">
+			<label>page 76</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150874.tif"/>
+		</surface>
+		<surface xml:id="f176" ulx="0" uly="0" lrx="5245" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213654">
+			<label>page 77</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150875.tif"/>
+		</surface>
+		<surface xml:id="f177" ulx="0" uly="0" lrx="5362" lry="6150" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213658">
+			<label>page 78</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150876.tif"/>
+		</surface>
+		<surface xml:id="f178" ulx="0" uly="0" lrx="5274" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213662">
+			<label>page 79</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150877.tif"/>
+		</surface>
+		<surface xml:id="f179" ulx="0" uly="0" lrx="5345" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213666">
+			<label>page 80</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150878.tif"/>
+		</surface>
+		<surface xml:id="f180" ulx="0" uly="0" lrx="5264" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213670">
+			<label>page 81</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150879.tif"/>
+		</surface>
+		<surface xml:id="f181" ulx="0" uly="0" lrx="5364" lry="6150" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213674">
+			<label>page 82</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150880.tif"/>
+		</surface>
+		<surface xml:id="f182" ulx="0" uly="0" lrx="5236" lry="6325" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213678">
+			<label>page 83</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150881.tif"/>
+		</surface>
+		<surface xml:id="f183" ulx="0" uly="0" lrx="5254" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213682">
+			<label>page 84</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150882.tif"/>
+		</surface>
+		<surface xml:id="f184" ulx="0" uly="0" lrx="5284" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213686">
+			<label>page 85</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150883.tif"/>
+		</surface>
+		<surface xml:id="f185" ulx="0" uly="0" lrx="5243" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213690">
+			<label>page 86</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150884.tif"/>
+		</surface>
+		<surface xml:id="f186" ulx="0" uly="0" lrx="5236" lry="6325" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213694">
+			<label>page 87</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150885.tif"/>
+		</surface>
+		<surface xml:id="f187" ulx="0" uly="0" lrx="5277" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213698">
+			<label>page 88</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150886.tif"/>
+		</surface>
+		<surface xml:id="f188" ulx="0" uly="0" lrx="5254" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213702">
+			<label>page 89</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150887.tif"/>
+		</surface>
+		<surface xml:id="f189" ulx="0" uly="0" lrx="5324" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213706">
+			<label>page 90</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150888.tif"/>
+		</surface>
+		<surface xml:id="f190" ulx="0" uly="0" lrx="5269" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213710">
+			<label>page 91</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150889.tif"/>
+		</surface>
+		<surface xml:id="f191" ulx="0" uly="0" lrx="5328" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213714">
+			<label>page 92</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150890.tif"/>
+		</surface>
+		<surface xml:id="f192" ulx="0" uly="0" lrx="5278" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213718">
+			<label>page 93</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150891.tif"/>
+		</surface>
+		<surface xml:id="f193" ulx="0" uly="0" lrx="5339" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213722">
+			<label>page 94</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150892.tif"/>
+		</surface>
+		<surface xml:id="f194" ulx="0" uly="0" lrx="5271" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213726">
+			<label>page 95</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150893.tif"/>
+		</surface>
+		<surface xml:id="f195" ulx="0" uly="0" lrx="5293" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213730">
+			<label>page 96</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150894.tif"/>
+		</surface>
+		<surface xml:id="f196" ulx="0" uly="0" lrx="5274" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213734">
+			<label>page 97</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150895.tif"/>
+		</surface>
+		<surface xml:id="f197" ulx="0" uly="0" lrx="5319" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213738">
+			<label>page 98</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150896.tif"/>
+		</surface>
+		<surface xml:id="f198" ulx="0" uly="0" lrx="5266" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213742">
+			<label>page 99</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150897.tif"/>
+		</surface>
+		<surface xml:id="f199" ulx="0" uly="0" lrx="5343" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213746">
+			<label>page 100</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150898.tif"/>
+		</surface>
+		<surface xml:id="f200" ulx="0" uly="0" lrx="5276" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213750">
+			<label>page 101</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150899.tif"/>
+		</surface>
+		<surface xml:id="f201" ulx="0" uly="0" lrx="5302" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213754">
+			<label>page 102</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150900.tif"/>
+		</surface>
+		<surface xml:id="f202" ulx="0" uly="0" lrx="5307" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213758">
+			<label>page 103</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150901.tif"/>
+		</surface>
+		<surface xml:id="f203" ulx="0" uly="0" lrx="5311" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213762">
+			<label>page 104</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150902.tif"/>
+		</surface>
+		<surface xml:id="f204" ulx="0" uly="0" lrx="5268" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213766">
+			<label>page 105</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150903.tif"/>
+		</surface>
+		<surface xml:id="f205" ulx="0" uly="0" lrx="5328" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213770">
+			<label>page 106</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150904.tif"/>
+		</surface>
+		<surface xml:id="f206" ulx="0" uly="0" lrx="5276" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213774">
+			<label>page 107</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150905.tif"/>
+		</surface>
+		<surface xml:id="f207" ulx="0" uly="0" lrx="5353" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213778">
+			<label>page 108</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150906.tif"/>
+		</surface>
+		<surface xml:id="f208" ulx="0" uly="0" lrx="5263" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213782">
+			<label>page 109</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150907.tif"/>
+		</surface>
+		<surface xml:id="f209" ulx="0" uly="0" lrx="5345" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213786">
+			<label>page 110</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150908.tif"/>
+		</surface>
+		<surface xml:id="f210" ulx="0" uly="0" lrx="5246" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213790">
+			<label>page 111</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150909.tif"/>
+		</surface>
+		<surface xml:id="f211" ulx="0" uly="0" lrx="5338" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213794">
+			<label>page 112</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150910.tif"/>
+		</surface>
+		<surface xml:id="f212" ulx="0" uly="0" lrx="5296" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213798">
+			<label>page 113</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150911.tif"/>
+		</surface>
+		<surface xml:id="f213" ulx="0" uly="0" lrx="5328" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213802">
+			<label>page 114</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150912.tif"/>
+		</surface>
+		<surface xml:id="f214" ulx="0" uly="0" lrx="5320" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213806">
+			<label>page 115</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150913.tif"/>
+		</surface>
+		<surface xml:id="f215" ulx="0" uly="0" lrx="5291" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213810">
+			<label>page 116</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150914.tif"/>
+		</surface>
+		<surface xml:id="f216" ulx="0" uly="0" lrx="5300" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213814">
+			<label>page 117</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150915.tif"/>
+		</surface>
+		<surface xml:id="f217" ulx="0" uly="0" lrx="5324" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213818">
+			<label>page 118</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150916.tif"/>
+		</surface>
+		<surface xml:id="f218" ulx="0" uly="0" lrx="5285" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213822">
+			<label>page 119</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150917.tif"/>
+		</surface>
+		<surface xml:id="f219" ulx="0" uly="0" lrx="5334" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213826">
+			<label>page 120</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150918.tif"/>
+		</surface>
+		<surface xml:id="f220" ulx="0" uly="0" lrx="5324" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213830">
+			<label>page 121</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150919.tif"/>
+		</surface>
+		<surface xml:id="f221" ulx="0" uly="0" lrx="5323" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213834">
+			<label>page 122</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150920.tif"/>
+		</surface>
+		<surface xml:id="f222" ulx="0" uly="0" lrx="5295" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213838">
+			<label>page 123</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150921.tif"/>
+		</surface>
+		<surface xml:id="f223" ulx="0" uly="0" lrx="5299" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213842">
+			<label>page 124</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150922.tif"/>
+		</surface>
+		<surface xml:id="f224" ulx="0" uly="0" lrx="5316" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213846">
+			<label>page 125</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150923.tif"/>
+		</surface>
+		<surface xml:id="f225" ulx="0" uly="0" lrx="5338" lry="6200" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213850">
+			<label>page 126</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150924.tif"/>
+		</surface>
+		<surface xml:id="f226" ulx="0" uly="0" lrx="5307" lry="6225" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213854">
+			<label>page 127</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150925.tif"/>
+		</surface>
+		<surface xml:id="f227" ulx="0" uly="0" lrx="5331" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213858">
+			<label>page 128</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150926.tif"/>
+		</surface>
+		<surface xml:id="f228" ulx="0" uly="0" lrx="5285" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213862">
+			<label>page 129</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150927.tif"/>
+		</surface>
+		<surface xml:id="f229" ulx="0" uly="0" lrx="5353" lry="6150" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213866">
+			<label>page 130</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150928.tif"/>
+		</surface>
+		<surface xml:id="f230" ulx="0" uly="0" lrx="5296" lry="6250" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213870">
+			<label>page 131</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150929.tif"/>
+		</surface>
+		<surface xml:id="f231" ulx="0" uly="0" lrx="5374" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213874">
+			<label>page 132</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150930.tif"/>
+		</surface>
+		<surface xml:id="f232" ulx="0" uly="0" lrx="5250" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213878">
+			<label>page 133</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150931.tif"/>
+		</surface>
+		<surface xml:id="f233" ulx="0" uly="0" lrx="5374" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213882">
+			<label>page 134</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150932.tif"/>
+		</surface>
+		<surface xml:id="f234" ulx="0" uly="0" lrx="5275" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213886">
+			<label>page 135</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150933.tif"/>
+		</surface>
+		<surface xml:id="f235" ulx="0" uly="0" lrx="5354" lry="6150" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213890">
+			<label>page 136</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150934.tif"/>
+		</surface>
+		<surface xml:id="f236" ulx="0" uly="0" lrx="5248" lry="6275" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213894">
+			<label>page 137</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150935.tif"/>
+		</surface>
+		<surface xml:id="f237" ulx="0" uly="0" lrx="5371" lry="6150" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213898">
+			<label>page 138</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150936.tif"/>
+		</surface>
+		<surface xml:id="f238" ulx="0" uly="0" lrx="5266" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213902">
+			<label>page 139</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150937.tif"/>
+		</surface>
+		<surface xml:id="f239" ulx="0" uly="0" lrx="5419" lry="6100" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213906">
+			<label>page 140</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150938.tif"/>
+		</surface>
+		<surface xml:id="f240" ulx="0" uly="0" lrx="5256" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213910">
+			<label>page 141</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150939.tif"/>
+		</surface>
+		<surface xml:id="f241" ulx="0" uly="0" lrx="5395" lry="6125" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213914">
+			<label>page 142</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150940.tif"/>
+		</surface>
+		<surface xml:id="f242" ulx="0" uly="0" lrx="5239" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213918">
+			<label>page 143</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150941.tif"/>
+		</surface>
+		<surface xml:id="f243" ulx="0" uly="0" lrx="5408" lry="6125" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213922">
+			<label>page 144</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150942.tif"/>
+		</surface>
+		<surface xml:id="f244" ulx="0" uly="0" lrx="5236" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213926">
+			<label>page 145</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150943.tif"/>
+		</surface>
+		<surface xml:id="f245" ulx="0" uly="0" lrx="5415" lry="6125" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213930">
+			<label>page 146</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150944.tif"/>
+		</surface>
+		<surface xml:id="f246" ulx="0" uly="0" lrx="5241" lry="6325" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213934">
+			<label>page 147</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150945.tif"/>
+		</surface>
+		<surface xml:id="f247" ulx="0" uly="0" lrx="5429" lry="6100" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213938">
+			<label>page 148</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150946.tif"/>
+		</surface>
+		<surface xml:id="f248" ulx="0" uly="0" lrx="5225" lry="6325" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213942">
+			<label>page 149</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150947.tif"/>
+		</surface>
+		<surface xml:id="f249" ulx="0" uly="0" lrx="5394" lry="6125" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213946">
+			<label>page 150</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150948.tif"/>
+		</surface>
+		<surface xml:id="f250" ulx="0" uly="0" lrx="5258" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213950">
+			<label>page 151</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150949.tif"/>
+		</surface>
+		<surface xml:id="f251" ulx="0" uly="0" lrx="5408" lry="6125" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213954">
+			<label>page 152</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150950.tif"/>
+		</surface>
+		<surface xml:id="f252" ulx="0" uly="0" lrx="5248" lry="6300" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213958">
+			<label>page 153</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150951.tif"/>
+		</surface>
+		<surface xml:id="f253" ulx="0" uly="0" lrx="5366" lry="6175" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213962">
+			<label>page 258</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150952.tif"/>
+		</surface>
+		<surface xml:id="f254" ulx="0" uly="0" lrx="5234" lry="6325" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213966">
+			<label>back inside cover</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150953.tif"/>
+		</surface>
+		<surface xml:id="f255" ulx="0" uly="0" lrx="5401" lry="6125" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213970">
+			<label>back outside cover</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150954.tif"/>
+		</surface>
+		<surface xml:id="f256" ulx="0" uly="0" lrx="3158" lry="6678" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213974">
+			<label>spine</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150955.tif"/>
+		</surface>
+		<surface xml:id="f257" ulx="0" uly="0" lrx="3575" lry="5654" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213978">
+			<label>head</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150956.tif"/>
+		</surface>
+		<surface xml:id="f258" ulx="0" uly="0" lrx="3575" lry="6870" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213982">
+			<label>fore-edge</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150957.tif"/>
+		</surface>
+		<surface xml:id="f259" ulx="0" uly="0" lrx="3656" lry="5637" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213986">
+			<label>tail</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F150958.tif"/>
+		</surface>
+		<surface xml:id="f260" ulx="0" uly="0" lrx="4476" lry="6500" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213990">
+			<label>title page: 'Choyce receits'</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F054774.tif"/>
+		</surface>
+		<surface xml:id="f261" ulx="0" uly="0" lrx="4426" lry="6750" sameAs="https://digitalcollections.folger.edu/node/54635/canvas/213994">
+			<label>page 63 [numbered from back]: Damson Wine receipt</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F054775.tif"/>
+		</surface>
+	</facsimile>
+</TEI>
