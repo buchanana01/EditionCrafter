@@ -1,9 +1,9 @@
 {
   "id": "ec",
   "documentName": "Hamilton Letters 2",
-  "iiifManifest": "/editioncrafter/hamilton/iiif/manifest.json",
+  "iiifManifest": "/EditionCrafter/hamilton/iiif/manifest.json",
   "transcriptionTypes": {
     "text": "Transcription"
   },
-  "viewerUrl": "/editioncrafter"
+  "viewerUrl": "/EditionCrafter"
 }
